@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1bbed242562c70240ae8fca7a0ef942c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ninja Gaiden (NES) (Alternate)
+  fontNames:
+  - Ninja Gaiden (NES) (Alternate)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

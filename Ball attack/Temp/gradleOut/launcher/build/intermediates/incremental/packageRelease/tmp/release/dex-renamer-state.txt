@@ -1,0 +1,4 @@
+#Mon Jul 26 10:27:32 EEST 2021
+base.0=D\:\\Program\\Unity repos\\Ball attack\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
